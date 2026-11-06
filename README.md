@@ -8,7 +8,7 @@ A demonstration of how a targeted B2B prospect list is structured, documented an
 
 | Criteria | Sample value |
 | --- | --- |
-| Market | Logistics, supply chain and warehouse software |
+| Market | Software for logistics, supply chain, warehousing and trade compliance (including logistics analytics) |
 | Geography | United States |
 | Company size | 50–499 employees |
 | Target roles | VP of Operations, VP of Sales, Head of Revenue Operations, Director of Sales Operations |
